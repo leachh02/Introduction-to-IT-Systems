@@ -1,7 +1,7 @@
-# Introduction-to-Python
+# Introduction-to-IT-Systems
 
 ## Course Outline:
-Geting Started (Development Environment)
+Getting Started (Development Environment)
 
 Expressions
 
